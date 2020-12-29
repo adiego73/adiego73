@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Diego
 
-<!--
-**adiego73/adiego73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer from Argentina, and I followed a MSc. in Computer Science and Engineering at Politecnico di Milano. I have a strong interest in autonomous systems and mobile robotics, and I am working towards becoming a Robotics Software Engineer.
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on autonomous mobile robots projects
+- 🌱 I’m currently improving my knowledge in localization and path planning
+- 🔭 I’m currently exploring new job opportunities in autonomous mobile robots or autonomous vehicles sector
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Profile views](https://gpvc.arturio.dev/adiego73)  
+
+[<img src='https://www.flaticon.com/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/adiego73/)  [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/486568)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adiego73&show_icons=true&count_private=true&layout=compact&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiego73&hide=html&theme=calm&layout=compact&count_private=true)
