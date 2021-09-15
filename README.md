@@ -9,9 +9,9 @@ I am a Software Engineer from Argentina, and I followed a MSc. in Computer Scien
 
 ![Profile views](https://gpvc.arturio.dev/adiego73)  
 
-My [<img src='https://www.flaticon.com/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/adiego73/) page
+My [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/adiego73/) page
 
-My [<img src='https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/486568) page
+My [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111628.png' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/486568) page
 
 You already know my :octocat: page :smiley:
 
