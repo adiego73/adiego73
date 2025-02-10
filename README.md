@@ -1,17 +1,25 @@
 ### Hi there 👋, my name is Diego
 
-I am a Software Engineer from Argentina, and I followed a MSc. in Computer Science and Engineering at Politecnico di Milano. I have a strong interest in autonomous systems and mobile robotics, and I am working towards becoming a Robotics Software Engineer :robot:.
+I am a Software Engineer from Argentina with an M.Sc. in Computer Science & Engineering from Politecnico di Milano, Italy. My professional interest lies in autonomous systems, mobile robotics, and AI-driven navigation, and I have hands-on experience in SLAM, localization, and path planning.
 
-- 👯 I’m looking to collaborate on autonomous mobile robots projects
-- 🌱 I’m currently improving my knowledge in localization and path planning
-- 🔭 I’m currently exploring new job opportunities in autonomous mobile robots or autonomous vehicles sector
+Throughout my career, I have worked on robotics, high-traffic web applications, cybersecurity, and large-scale software architectures, solving complex engineering challenges across industries.
 
 
-![Profile views](https://gpvc.arturio.dev/adiego73)  
+💡 Key Areas of Expertise:
+
+* Robotics & Autonomous Systems: Localization, Navigation, Path Planning, SLAM
+* Software Development: C++, Python, ROS, Computer Vision, AI
+* Cloud & Scalable Architectures: Docker, Kubernetes, Big Data, High-Performance APIs
+
+
+🚀 Currently:
+
+* Expanding my knowledge in localization, motion planning, and AI for robotics
+* Exploring new opportunities in autonomous mobile robots and autonomous vehicles
+* Open to collaborations on robotics and AI projects
+
 
 My [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/adiego73/) page
-
-My [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111628.png' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/486568) page
 
 You already know my :octocat: page :smiley:
 
