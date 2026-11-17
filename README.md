@@ -19,6 +19,6 @@ Throughout my career, I have worked on robotics, high-traffic web applications, 
 * Open to collaborations on robotics and AI projects
 
 
-My [<img src='https://bit.ly/48pUIXj' alt='linkedin' height='20'>](https://www.linkedin.com/in/adiego73/) page
+My [<img src='https://snu.to/8vlw1' alt='linkedin' height='20'>](https://www.linkedin.com/in/adiego73/) page
 
 You already know my :octocat: page :smiley:
