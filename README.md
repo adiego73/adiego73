@@ -19,9 +19,6 @@ Throughout my career, I have worked on robotics, high-traffic web applications, 
 * Open to collaborations on robotics and AI projects
 
 
-My [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/adiego73/) page
+My [<img src='https://bit.ly/48pUIXj' alt='linkedin' height='20'>](https://www.linkedin.com/in/adiego73/) page
 
 You already know my :octocat: page :smiley:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adiego73&show_icons=true&count_private=true&layout=compact&theme=calm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiego73&hide=html&theme=calm&layout=compact&count_private=true)
